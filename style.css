@@ -1,10 +1,45 @@
-
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 0;
-        padding: 0;
-    }
+body {
+    font-family: Arial, sans-serif; 
+    color: white;
+    background-color: black;
+  }
+  
+  .container {
+    max-width: 800px; /* Set a maximum width for the content */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add some padding */
     
-   
+  }
+  
+  h1 {
+    text-align: center; /* Center the heading */
+  }
+  
+  .vision {
+    background-color: #3a464b;
+    color: white;
+    padding: 20px; /* Add some padding */
+    margin-bottom: 100px; /* Add space between the divs */
+    border-radius: 0 20px 20px 0;
+    margin-right: 200px; }
+  
+  .why-us {
+    background-color: #3a464b;
+    color: white;
+    padding: 20px; /* Add some padding */
+    margin-bottom: 100px; /* Add space between the divs */
+    border-radius:0 20px 20px 0;
+    margin-right: 200px;  }
+  
+  .mission {
+    background-color: #3a464b;
+    color: white;
+    padding: 20px; /* Add some padding */
+    margin-bottom: 100px; /* Add space between the divs */
+    border-radius:  20px 0 0 20px ;  
+    margin-left: 200px; }
 
+  .vision h2, .mission h2, .why-us h2 {
+    color: #d58844; 
+  }
+  
