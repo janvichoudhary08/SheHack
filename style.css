@@ -5,41 +5,35 @@ body {
   }
   
   .container {
-    max-width: 800px; /* Set a maximum width for the content */
-    margin: 0 auto; /* Center the container horizontally */
-    padding: 20px; /* Add some padding */
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px; 
     
   }
   
   h1 {
-    text-align: center; /* Center the heading */
+    text-align: center; 
   }
   
   .vision {
-    background-color: #3a464b;
+    background-color: #28181f;
     color: white;
-    padding: 20px; /* Add some padding */
-    margin-bottom: 100px; /* Add space between the divs */
+    padding: 20px; 
+    margin-bottom: 100px; 
     border-radius: 0 20px 20px 0;
-    margin-right: 200px; }
+    margin-right: 20px; }
   
   .why-us {
-    background-color: #3a464b;
+    background-color: #28181f;
     color: white;
-    padding: 20px; /* Add some padding */
-    margin-bottom: 100px; /* Add space between the divs */
+    padding: 20px; 
+    margin-bottom: 100px; 
     border-radius:0 20px 20px 0;
-    margin-right: 200px;  }
+    margin-right: 20px;  }
   
-  .mission {
-    background-color: #3a464b;
-    color: white;
-    padding: 20px; /* Add some padding */
-    margin-bottom: 100px; /* Add space between the divs */
-    border-radius:  20px 0 0 20px ;  
-    margin-left: 200px; }
+  
 
-  .vision h2, .mission h2, .why-us h2 {
-    color: #d58844; 
+  .vision h2,  .why-us h2 {
+    color: #d59dcc; 
   }
   
